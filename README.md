@@ -1,8 +1,10 @@
 
+![CI](https://github.com/teverett/gml4j/workflows/CI/badge.svg)
+
 GML4J
 =============
 
-A Java library for rending [GML](https://en.wikipedia.org/wiki/Graph_Modelling_Language)
+A Java library for rendering [GML](https://en.wikipedia.org/wiki/Graph_Modelling_Language)
 
 License
 -------------
